@@ -4,6 +4,8 @@ import org.testng.annotations.Test;
 
 public class mytest {
 
+	// Use of priority and description method
+	
 	@Test(priority =1,description="this test case for login application")
 public void loginApplication() {
 	
